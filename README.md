@@ -1,5 +1,5 @@
 ## Oi eu sou o Gusta, desenvolvedor front-end em formação.
-##### e criador de conteúdo de programação e tecnologia nas horas vagas :)
+e criador de conteúdo de programação e tecnologia nas horas vagas :)
 
 ###
 
