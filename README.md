@@ -1,4 +1,4 @@
-## Oi eu sou o Gusta, desenvolvedor front-end em formação.
+## Oi eu sou o Gusta, desenvolvedor mobile em formação.
 e criador de conteúdo de programação e tecnologia nas horas vagas :)
 
 ###
