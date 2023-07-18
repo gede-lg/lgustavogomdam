@@ -38,7 +38,7 @@
   <a href="https://www.youtube.com/@recurscire" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="blank"></a>
   <a href="https://www.instagram.com/recurscire/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
  	<a href="https://www.twitch.tv/lgustavogomdam" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="blank"></a>
- <a href="https://discord.gg/chkg5zmNye" target="_blank"><img src="[https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://discord.gg/d8qpwjb3sW)" target="_blank"></a> 
+ <a href="https://discord.gg/chkg5zmNye" target="_blank"><img src="https://discord.gg/d8qpwjb3sW" target="_blank"></a> 
   <a href = "mailto:gustavo.gomdam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
   <a href="https://www.linkedin.com/in/luiz-gustavo-gomes-damasceno-985653245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
 </div>
