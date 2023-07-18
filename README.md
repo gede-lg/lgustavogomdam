@@ -1,19 +1,19 @@
-# 🔺 Opa, tudo bão? eu sou o Gusta, desenvolvedor Back-End.
-### Informações sobre mim:
+# 🔺 Opa, bão? eu sou o Gusta, desenvolvedor Back-End.
+### 🔥 Sobre mim:
 * Nome: Luiz Gustavo Gomes Damasceno (Gusta)
 * Graduação: Sistemas de Informação - Instituto Federal do Espírito Santo
 * Área de Foco: Back-End
 * criador de conteúdo de programação e tecnologia nas horas vagas :)
-
-## ⚡ Github Stats</b>
+  
+### ⚡ Github Stats</b>
 <div align="center">
   <a href="https://github.com/lgustavogomdam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgustavogomdam&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple"/>	
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgustavogomdam&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=midnight-purple" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lgustavogomdam&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=midnight-purple" />
 </div>
-
-## 🎓 Tecnologias conhecidas:
+   
+### 🎓 Tecnologias conhecidas:
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -30,16 +30,10 @@
   
 </div>
 
-## 📝 Tecnologias em formação:
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gusta-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">
-  <img align="center" alt="Gusta-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gusta-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-</div>
-  
 ##
- 
+
+![Snake animation](https://github.com/lgustavogomdam/lgustavogomdam/blob/output/github-contribution-grid-snake.svg)
+
 <div> 
   <a href="https://www.youtube.com/@recurscire" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/recurscire/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -48,5 +42,3 @@
   <a href = "mailto:gustavo.gomdam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luiz-gustavo-gomes-damasceno-985653245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![Snake animation](https://github.com/lgustavogomdam/lgustavogomdam/blob/output/github-contribution-grid-snake.svg)
