@@ -35,10 +35,10 @@
 ![Snake animation](https://github.com/lgustavogomdam/lgustavogomdam/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
-  <a href="https://www.youtube.com/@recurscire" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="blank"></a>
-  <a href="https://www.instagram.com/recurscire/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
- 	<a href="https://www.twitch.tv/lgustavogomdam" target="blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="blank"></a>
-  <a href="[https://discord.gg/d8qpwjb3sW](https://discord.com/invite/d8qpwjb3sW)" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="https://www.youtube.com/@recurscire"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="blank"></a>
+  <a href="https://www.instagram.com/recurscire/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+ 	<a href="https://www.twitch.tv/lgustavogomdam"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="blank"></a>
+  <a href="[https://discord.gg/d8qpwjb3sW](https://discord.com/invite/d8qpwjb3sW)"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="blank></a> 
   <a href = "mailto:gustavo.gomdam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-  <a href="https://www.linkedin.com/in/luiz-gustavo-gomes-damasceno-985653245" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
+  <a href="https://www.linkedin.com/in/luiz-gustavo-gomes-damasceno-985653245"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
 </div>
