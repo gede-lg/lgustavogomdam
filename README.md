@@ -1,11 +1,13 @@
-# 🔺 Opa, bão? eu sou o Gusta, desenvolvedor Back-End.
-### 🔥 Sobre mim:
-* Nome: Luiz Gustavo Gomes Damasceno (Gusta)
-* Graduação: Sistemas de Informação - Instituto Federal do Espírito Santo
-* Área de Foco: Back-End
-* criador de conteúdo de programação e tecnologia nas horas vagas :)
-  
-### ⚡ Github Stats</b>
+<h1>🔺 Opa, bão? eu sou o Gusta, desenvolvedor Back-End.</h1>
+<h3>🔥 Sobre mim:</h3>
+<ul>
+  <li><strong>Nome:</strong> Luiz Gustavo Gomes Damasceno (Gusta)</li>
+  <li><strong>Graduação:</strong> Sistemas de Informação - Instituto Federal do Espírito Santo</li>
+  <li><strong>Área de Foco:</strong> Back-End</li>
+  <li>criador de conteúdo de programação e tecnologia nas horas vagas :)</li>
+</ul>
+
+<h3>⚡ Github Stats</h3>
 <div align="center">
   <a href="https://github.com/lgustavogomdam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgustavogomdam&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=midnight-purple"/>	
@@ -13,7 +15,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lgustavogomdam&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=midnight-purple" />
 </div>
    
-### 🎓 Tecnologias conhecidas:
+<h3>🎓 Tecnologias conhecidas:</h3>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Gusta-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
@@ -33,11 +35,7 @@
   <img align="center" alt="Gusta-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   
 </div>
-
-##
-
-![Snake animation](https://github.com/lgustavogomdam/lgustavogomdam/blob/output/github-contribution-grid-snake.svg)
-
+<hr>
 <div> 
   <a href="https://www.youtube.com/@recurscire"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="blank"></a>
   <a href="https://www.instagram.com/recurscire/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
